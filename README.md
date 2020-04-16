@@ -13,5 +13,8 @@ A webpage developed only using the Bootstrap framework which demostrates the key
 * Desktop View
 ![](images/screenshot-1.png)
 ![](images/screenshot-2.png)
+
 * Mobile View
+
 ![](images/screenshot-3.png)
+![](images/screenshot-4.png)
